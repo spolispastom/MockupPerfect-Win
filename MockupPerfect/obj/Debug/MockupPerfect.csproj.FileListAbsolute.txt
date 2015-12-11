@@ -1,0 +1,15 @@
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\bin\Debug\MockupPerfect.exe.config
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\bin\Debug\MockupPerfect.exe
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\bin\Debug\MockupPerfect.pdb
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.csprojResolveAssemblyReference.cache
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MainWindow.baml
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MainWindow.g.cs
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\App.g.cs
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect_MarkupCompile.cache
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.g.resources
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.Properties.Resources.resources
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.csproj.GenerateResource.Cache
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.exe
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\MockupPerfect.pdb
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\Styles\VS2012WindowStyle.baml
+Z:\Users\mihailkurenkov\GitHub\WindowsApplications\MockupPerfect\MockupPerfect\obj\Debug\Styles\VS2012WindowStyle.g.cs
